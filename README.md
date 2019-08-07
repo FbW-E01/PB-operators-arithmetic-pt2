@@ -4,7 +4,7 @@
 
 **Basic Arithmetic Problems**
 
-Q1. In one night, a movie theater sells tickets for 6450 dollars. Each ticket costs 15 dollars. How many people purchased a ticket? 
+Q1. In one night, a movie theater sells tickets for 6450 dollars. Each ticket costs 15 dollars. How many tickets were sold? 
 
 Q2. Sylvia's income is 500 dollars per week. How much does Sylvia makes every year?
 
