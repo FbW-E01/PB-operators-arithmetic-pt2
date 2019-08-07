@@ -52,7 +52,7 @@ const billThree = 35.92 + (35.92 * 0.2);
 console.log(
 `Bill One: EUR${billOne}
 Bill Two: EUR${billTwo}
-Bill Three: EUR${billThree}`)
+Bill Three: EUR${billThree}`);
 
 //Q10. The number of hours Noemy worked over the last two weeks are 8, 6, 5, 9, 8, 2, 1, 8.5, 7, 4
 //What is Noemy's average hour?
