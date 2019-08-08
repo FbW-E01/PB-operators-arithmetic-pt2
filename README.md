@@ -1,6 +1,6 @@
 # Programming Basics: Arithmetic Operators (Math Problems)
  
-## These tasks are aimed at making you more comfortable with solving math problems using JS. **Print each of your results to the console.**
+These tasks are aimed at making you more comfortable with solving math problems using JS. **Print each of your results to the console.**
 
 **Basic Arithmetic Problems**
 
