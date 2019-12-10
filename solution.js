@@ -34,7 +34,7 @@ const triSideLength1 = 5;
 const triSideLength2 = 6;
 const triSideLength3 = 7;
 const halfPerimeter = (triSideLength1 + triSideLength2 + triSideLength3) / 2;
-const areaTriangle = Math.sqrt(halfPerimeter*(halfPerimeter-triSideLength1)*(halfPerimeter-triSideLength1)*(halfPerimeter-triSideLength3));
+const areaTriangle = Math.sqrt(halfPerimeter*(halfPerimeter-triSideLength1)*(halfPerimeter-triSideLength2)*(halfPerimeter-triSideLength3));
 console.log(`Area of triangle = ${areaTriangle}cm²`);
 
 //Q8. Calculate the volume of a cube. Length of each side is 9cm.
