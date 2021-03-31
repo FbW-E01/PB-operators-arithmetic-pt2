@@ -48,7 +48,7 @@ console.log(`Volume of cube = ${cubeVol}cm³`);
 //€35.92 + 20% tip
 const billOne = 22.35;
 const billTwo = 26.67;
-const billThree = 35.92 + (35.92 * 0.2);
+const billThree = 35.92;
 const tenPercentTip = 1.1;
 const fifteenPercentTip = 1.15;
 const twentyPercentTip = 1.2;
